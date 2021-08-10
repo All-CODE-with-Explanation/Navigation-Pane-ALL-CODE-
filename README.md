@@ -7,7 +7,7 @@ Navigate Through different Programming Language to access its respective Content
 
 - [**JAVA Programs**](https://github.com/All-CODE-with-Explanation/JAVA)
 
-- [**Web Designing**](https://github.com/All-CODE-with-Explanation/Web-Development)
+- [**Web Designing**](https://github.com/Web-Development-Ayush/Web-Development)
 
 - [** **]()
 
